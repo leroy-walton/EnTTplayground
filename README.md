@@ -1,2 +1,2 @@
 # EnTTplayground
-EnTT ECS library playground
+raylib and EnTT ECS library playground
